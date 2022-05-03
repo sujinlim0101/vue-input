@@ -8,7 +8,6 @@
   "dependencies": {
     "@vueuse/core": "^8.3.1",
     "bootstrap": "^5.1.3",
-    "font-awesome": "^4.7.0",
     "libphonenumber-js": "^1.9.52",
     "vee-validate": "^4.5.11",
     "vue": "^3.2.26",
