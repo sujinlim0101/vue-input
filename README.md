@@ -2,7 +2,7 @@
 베이스 input 과 휴대폰 input validation
 
 ### AWS Amplify와 Github연동으로 배포
-* URL: https://ap-northeast-2.console.aws.amazon.com/amplify/home?region=ap-northeast-2#/dpf52993lw13p/main/2
+* URL: https://main.dpf52993lw13p.amplifyapp.com
 
 ### Vee-validate와 yup을 사용하여 input과 validation 적용하기
 
